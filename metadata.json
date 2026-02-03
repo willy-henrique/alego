@@ -1,0 +1,9 @@
+
+{
+  "name": "ALEGO Master - Plataforma de Estudos Dinâmica",
+  "description": "Uma plataforma de estudos interativa para o concurso da Assembleia Legislativa de Goiás (ALEGO), focada em 'Active Recall', 'Sandbox de Conceitos' e 'Refactoring de Conhecimento'.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
